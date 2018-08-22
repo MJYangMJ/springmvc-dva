@@ -1,6 +1,10 @@
 # springmvc-dva
 
+this is the front side code.
 
+install nodejs,npm
+
+use npm -i in the folder,then npm start.
 
 springmvc+dva first test
 
